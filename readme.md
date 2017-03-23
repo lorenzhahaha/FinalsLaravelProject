@@ -69,6 +69,8 @@ Here are some of the screenshots ...
 ![Image-8](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/8.png)
 ![Image-9](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/9.png)
 ![Image-10](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/10.png)
+![Image-11](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/11.png)
+
 
 
 Enjoy!
