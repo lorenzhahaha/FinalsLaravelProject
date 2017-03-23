@@ -38,3 +38,41 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+# Laravel Project
+## "Serving what's hot everyday." - Daily Bread, 2017
+
+A website/web application that serves the following:<br />
+*Login and Register<br />
+*Animated GUI<br />
+*Different approach in showing MENU<br />
+*Comment/Suggestion Box<br />
+<br />
+*Validation<br />
+*Middleware<br />
+*Auth<br />
+*Create and Read<br />
+*Flash Message (Modal)<br /><br />
+
+
+## Screenshots
+Here are some of the screenshots ... 
+
+![Image-1](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/1.png)
+![Image-2](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/2.png)
+![Image-3](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/3.png)
+![Image-4](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/4.png)
+![Image-5](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/5.png)
+![Image-6](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/6.png)
+![Image-7](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/7.png)
+![Image-8](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/8.png)
+![Image-9](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/9.png)
+![Image-10](https://github.com/lorenzhahaha/FinalsLaravelProject/blob/master/Lorenz/10.png)
+
+
+Enjoy!
+<br /><br />
+
+## About Me
+I am Lorenz C. Florentino.<br /> From Bachelor of Science in Information System.<br />
